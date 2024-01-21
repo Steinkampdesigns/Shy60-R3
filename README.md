@@ -12,6 +12,7 @@ This Keyboard project is a simple 60 percent keyboard featuring:
  	two piece case design
 	external weight
 	corsa sides
+ 	daugherboard cover
 
 Layout:
 
