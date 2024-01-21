@@ -51,3 +51,9 @@ Hardware:
 	M2.5 countersunk screws 5mm
  	M2 flat head screws 4mm
 
+Special Thanks to:
+
+	Lysol for helping me out with the design
+ 	Zlane for checking the design
+  	Atkins and Snow for giving feedback
+   	RarePotato8DE for designing the PCB
