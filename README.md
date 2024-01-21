@@ -43,3 +43,11 @@ How to make it:
 
  	You can use any manufacture just give them the 3D files and drawings and they should be able to machine your case(I would recommend DDS for the manu)
 
+Hardware:
+
+	Grommets for the mounting: https://www.mouser.de/ProductDetail/Essentra/HG-2?qs=PzGy0jfpSMubUl%2Bk6oRC0A%3D%3D
+ 	Basic 8mm feets
+  	M2.5 flat head screws 8mm
+	M2.5 countersunk screws 5mm
+ 	M2 flat head screws 4mm
+
