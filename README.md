@@ -1,5 +1,6 @@
 # Shy60-R3
 An open source plateless 60 percent
+Join my Discord for questions:https://discord.gg/ZbZNmJZ6eR
 
 ![front](https://github.com/Steinkampdesigns/Shy60-R3/assets/107112751/25e06f52-7940-49b0-af68-5d30374e78f1)
 
